@@ -17,4 +17,5 @@ public class ImageBigActivity extends Activity {
         int bg=intent.getIntExtra("imgBg",0);
         imgBig.setBackgroundResource(bg);
     }
+	//ggqMake
 }
